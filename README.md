@@ -2,8 +2,6 @@
 
 This is a little app to visualize my hiking trails and display images from my hikes. This year I decided to go hiking way more and I want to document all this process by making small visualizations of these hikes, just like this one:
 
-[![screenshot](./screenshot.png)](hike-visualization.netlify.app)
-
 In this tutorial I'll show you the main steps in building this app, so that you can also build your own. This is what I'll cover:
 
 1. display the hiking data on a 3D map and show an elevation profile graphic
