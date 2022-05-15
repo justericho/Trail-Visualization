@@ -1,4 +1,4 @@
-import ArcGISWebScene from '@arcgis/core/WebScene';
+/import ArcGISWebScene from '@arcgis/core/WebScene';
 import SceneView from '@arcgis/core/views/SceneView';
 import ArcGISMap from '@arcgis/core/Map';
 import MapView from '@arcgis/core/views/MapView';
