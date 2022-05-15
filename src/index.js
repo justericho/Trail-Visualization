@@ -3,7 +3,7 @@ import SceneView from '@arcgis/core/views/SceneView';
 import ArcGISMap from '@arcgis/core/Map';
 import MapView from '@arcgis/core/views/MapView';
 import request from '@arcgis/core/request';
-import ElevationProfile from "@arcgis/core/widgets/ElevationProfile";
+// import ElevationProfile from "@arcgis/core/widgets/ElevationProfile";
 import Basemap from "@arcgis/core/Basemap";
 import Polyline from "@arcgis/core/geometry/Polyline";
 import Graphic from "@arcgis/core/Graphic";
